@@ -41,6 +41,3 @@ streamlit run app.py
 
 ## Data
 Diamonds dataset (53,940 diamonds), originally from the R package [ggplot2](https://ggplot2.tidyverse.org/reference/diamonds.html). CSV copy on [Kaggle](https://www.kaggle.com/shivam2503/diamonds). The dataset is not included in this repo.
-
-![App screenshot](screenshot.png)
-
